@@ -1,24 +1,17 @@
-# README
+Comandos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Após clonar:
 
-Things you may want to cover:
+> - **1º**
+> >bundle
 
-* Ruby version
+> - **2º**
+> >yarn install
 
-* System dependencies
+> - **3º**
+> >rails db:migrate
 
-* Configuration
+Pronto é só usar
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> - **start o serve**
+> >rails s 
